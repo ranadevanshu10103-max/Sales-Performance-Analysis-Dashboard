@@ -149,4 +149,4 @@ Created as a Data Analytics portfolio project using Microsoft Excel.
 
 ### Data Cleaning
 
-![Data Cleaning](Clean.PNG)
+![Data Cleaning](Clean_Data.png)
