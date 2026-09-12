@@ -129,3 +129,24 @@ The final dashboard provides an interactive and user-friendly way to explore sal
 ## Author
 
 Created as a Data Analytics portfolio project using Microsoft Excel.
+
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard 1](dashboard%201.PNG)
+
+![Dashboard 2](dashboard%202.PNG)
+
+![Dashboard 3](dashboard%203.PNG)
+
+### Analysis
+
+![Analysis 1](./Analyst%201.PNG)
+
+![Analysis 2](./Analyst%202.PNG)
+
+### Data Cleaning
+
+![Data Cleaning](Clean.PNG)
