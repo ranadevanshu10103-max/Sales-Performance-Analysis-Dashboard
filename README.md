@@ -135,11 +135,11 @@ Created as a Data Analytics portfolio project using Microsoft Excel.
 
 ### Dashboard
 
-![Dashboard 1](dashboard%201.PNG)
+![Dashboard 1](Dashboard_1.png)
 
-![Dashboard 2](dashboard%202.PNG)
+![Dashboard 2](Dashboard_2.png)
 
-![Dashboard 3](dashboard%203.PNG)
+![Dashboard 3](Dashboard_3.png)
 
 ### Analysis
 
