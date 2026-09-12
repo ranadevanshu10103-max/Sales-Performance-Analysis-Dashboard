@@ -143,9 +143,9 @@ Created as a Data Analytics portfolio project using Microsoft Excel.
 
 ### Analysis
 
-![Analysis 1](./Analyst%201.PNG)
+![Analysis 1](Analysis_1.png)
 
-![Analysis 2](./Analyst%202.PNG)
+![Analysis 2](Analysis_2.png)
 
 ### Data Cleaning
 
